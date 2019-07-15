@@ -1,0 +1,82 @@
+{
+  "_from": "startbootstrap-freelancer@^5.1.2",
+  "_id": "startbootstrap-freelancer@5.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-QGN0cGTy4b9birV8bo064xKm+gwTOU3WxH1/9EQaWew/NDJtAhf2s9sjIMw+2dvbFIWp6hRVffRzaQE8ArQaFA==",
+  "_location": "/startbootstrap-freelancer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "startbootstrap-freelancer@^5.1.2",
+    "name": "startbootstrap-freelancer",
+    "escapedName": "startbootstrap-freelancer",
+    "rawSpec": "^5.1.2",
+    "saveSpec": null,
+    "fetchSpec": "^5.1.2"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/startbootstrap-freelancer/-/startbootstrap-freelancer-5.1.2.tgz",
+  "_shasum": "1333dee358dd7903276e992d18c61081eda11eac",
+  "_spec": "startbootstrap-freelancer@^5.1.2",
+  "_where": "C:\\Users\\nikla\\source\\repos\\Niklas\\Niklas",
+  "author": {
+    "name": "Start Bootstrap"
+  },
+  "bugs": {
+    "url": "https://github.com/BlackrockDigital/startbootstrap-freelancer/issues",
+    "email": "feedback@startbootstrap.com"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "David Miller",
+      "url": "http://davidmiller.io/"
+    }
+  ],
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.9.0",
+    "bootstrap": "4.3.1",
+    "jquery": "3.4.1",
+    "jquery.easing": "^1.4.1",
+    "magnific-popup": "^1.1.0"
+  },
+  "deprecated": false,
+  "description": "A freelancer portfolio HTML theme for Bootstrap.",
+  "devDependencies": {
+    "browser-sync": "2.26.7",
+    "del": "4.1.1",
+    "gulp": "4.0.2",
+    "gulp-autoprefixer": "6.1.0",
+    "gulp-clean-css": "4.2.0",
+    "gulp-header": "2.0.7",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.2",
+    "merge-stream": "2.0.0"
+  },
+  "homepage": "https://startbootstrap.com/template-overviews/freelancer",
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "license": "MIT",
+  "name": "startbootstrap-freelancer",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackrockDigital/startbootstrap-freelancer.git"
+  },
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "title": "Freelancer",
+  "version": "5.1.2"
+}
